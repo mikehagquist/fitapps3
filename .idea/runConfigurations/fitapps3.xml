@@ -7,7 +7,7 @@
       <env name="PYTHONUNBUFFERED" value="1" />
       <env name="DJANGO_SETTINGS_MODULE" value="djangox_project.settings" />
     </envs>
-    <option name="SDK_HOME" value="C:\Users\mjh007\.virtualenvs\fitapps3-YUTSqi7B\Scripts\python.exe" />
+    <option name="SDK_HOME" value="C:\Users\mikeh\.virtualenvs\fitapps3-RvQ2qCxr\Scripts\python.exe" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
